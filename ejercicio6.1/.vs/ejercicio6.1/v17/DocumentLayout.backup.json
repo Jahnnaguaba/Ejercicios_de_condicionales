@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jahnna\\source\\repos\\ejercicio6.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A630A1-5543-498F-9578-30CA02E109B8}|ejercicio6.1\\ejercicio6.1.csproj|c:\\users\\jahnna\\source\\repos\\ejercicio6.1\\ejercicio6.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A630A1-5543-498F-9578-30CA02E109B8}|ejercicio6.1\\ejercicio6.1.csproj|solutionrelative:ejercicio6.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jahnna\\source\\repos\\ejercicio6.1\\ejercicio6.1\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio6.1\\Program.cs",
+              "ToolTip": "C:\\Users\\Jahnna\\source\\repos\\ejercicio6.1\\ejercicio6.1\\Program.cs",
+              "RelativeToolTip": "ejercicio6.1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:06:11.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

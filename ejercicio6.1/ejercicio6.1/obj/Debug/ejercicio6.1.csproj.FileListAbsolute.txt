@@ -1,0 +1,7 @@
+C:\Users\Jahnna\source\repos\ejercicio6.1\ejercicio6.1\bin\Debug\ejercicio6.1.exe.config
+C:\Users\Jahnna\source\repos\ejercicio6.1\ejercicio6.1\bin\Debug\ejercicio6.1.exe
+C:\Users\Jahnna\source\repos\ejercicio6.1\ejercicio6.1\bin\Debug\ejercicio6.1.pdb
+C:\Users\Jahnna\source\repos\ejercicio6.1\ejercicio6.1\obj\Debug\ejercicio6.1.csproj.AssemblyReference.cache
+C:\Users\Jahnna\source\repos\ejercicio6.1\ejercicio6.1\obj\Debug\ejercicio6.1.csproj.CoreCompileInputs.cache
+C:\Users\Jahnna\source\repos\ejercicio6.1\ejercicio6.1\obj\Debug\ejercicio6.1.exe
+C:\Users\Jahnna\source\repos\ejercicio6.1\ejercicio6.1\obj\Debug\ejercicio6.1.pdb
